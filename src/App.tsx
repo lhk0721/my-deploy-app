@@ -39,6 +39,8 @@ function App() {
         <p>
           배포 시간: {new Date().toLocaleString('ko-KR')}
         </p>
+        <h1>previer deploy 테스트2</h1>
+        <h1>previer deploy 테스트2</h1>
         12 / 40
       </footer>
     </div>
